@@ -1,7 +1,6 @@
 iBTC Core integration/staging tree
 =====================================
 
-http://www.iBTC.network
 
 What is iBTC?
 ----------------
